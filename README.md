@@ -2,8 +2,14 @@
 - 📫 estherkal6641@gmail.com
 
 
+```javascript
+const developer = {
+  Name: "Esther Kalsmith",
+  Role: "Full Stack Developer",
+  Skills: ["Python", "JavaScript", "TypeScript", "React", "Angular", "Node.js", "C#", "Java", "C++"],
+  Passion: "Creating efficient and scalable applications."
+};
+console.log(developer);
 
-<!---
-EstherKal/EstherKal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
