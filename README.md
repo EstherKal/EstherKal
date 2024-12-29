@@ -1,7 +1,6 @@
 <h2 align="center">👋 Hi , I'm Esther Kalsmith</h2>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 <h3 align="center">Full Stack Developer</h3> 
-<h3 align="center"><strong> estherkal6641@gmail.com</strong></h3>
+<h6 align="center"><strong> estherkal6641@gmail.com</strong></h6>
 
 ## <b>About me</b>
 Full Stack Developer with strong motivation, quick learning abilities, excellent interpersonal skills, a strong work ethic, sharp analytical thinking, and problem-solving skills, with a strong passion for growth and professional advancement.
@@ -31,6 +30,7 @@ Full Stack Developer with strong motivation, quick learning abilities, excellent
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 <!-- 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code> -->
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
+	 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
 <!-- 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code> -->
@@ -42,8 +42,10 @@ Full Stack Developer with strong motivation, quick learning abilities, excellent
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=aws&perline=13" alt="AWS" title="AWS"/></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=docker&perline=13" alt="Docker" title="Docker"/></code>
+	 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
+	 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
+ 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
+  	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 </div>
 
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">-->
@@ -54,9 +56,6 @@ Full Stack Developer with strong motivation, quick learning abilities, excellent
 <!--    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstherKal&show_icons=true&locale=en" alt="Esther-Kalsmith" /></p> -->
 </div>
 
-<div align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
 
 
 
