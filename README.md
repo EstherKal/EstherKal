@@ -48,13 +48,22 @@ Full Stack Developer with strong motivation, quick learning abilities, excellent
   	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 </div>
 
-<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">-->
-## <b> Github status</b>
-<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 10px; margin: 10px;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstherKal&show_icons=true&locale=en&layout=compact" alt="Esther-Kalsmith" /></p>
-<!--   <p><img align="left" src="https://github-contributor-stats.vercel.app/api?username=Estherkal&limit=5&theme=transparent&border_radius=10&combine_all_yearly_contributions=true" alt="Esther-Kalsmith" /></p> -->
-<!--    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstherKal&show_icons=true&locale=en" alt="Esther-Kalsmith" /></p> -->
 </div>
+
+## <b>My GitHub Stats</b>
+<div align="center">
+  <table>
+    <tr>
+      <td style="border: 2px solid #000; padding: 10px; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EstherKal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      </td>
+      <td style="border: 2px solid #000; padding: 10px; text-align: center;">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
